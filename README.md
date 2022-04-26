@@ -1,6 +1,6 @@
 <html>
   <head>
-<link rel="rd" href="rd.css"/>
+<link rel="rdr" href="rdr.css"/>
     <head>
 <body>
 <script src="https://github.com/KuthikBohdan/rd/blob/main/rd.js"></script>
