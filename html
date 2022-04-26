@@ -3,7 +3,10 @@
 <link rel="rdr" href="rdr.css"/>
     <head>
 <body>
-<script src="https://github.com/KuthikBohdan/rd/blob/main/rd.js"></script>
+<script>
+$('.close').click(function() {
+  $('.screenpage:visible').hide().siblings().eq(Math.floor(Math.random() * 9)).show();
+});</script>
 <div class=container>
   <div id="page0" class="screenpage show">1
     <div class="close">close</div>
