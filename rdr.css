@@ -1,2 +1,23 @@
-.screenpage { display: none; }
-.show { display: block }
+.container {
+		margin: 0 auto;
+		max-width: 800px;
+	}
+	.screenpage {
+		display: none;
+		margin-top: 20px;
+		border: 1px dotted #ccc;
+		position: relative;
+		padding: 2px 0;
+		text-align: center;
+	}
+	.show { display: block }
+	.close{
+		cursor: pointer;
+		background-color: #4bc7fa;
+		padding: 2px 5px;
+		color: #fff;
+		position: absolute;
+		top: 0;
+		right: 0;
+		z-index: 9;
+	}
