@@ -1,9 +1,11 @@
 <html>
   <head>
-<link rel="rdr" href="rdr.css"/>
-    <head>
+<link rel="rd" href="rd.css"/>
+<ul id="rd.js">
+
+    </head>
 <body>
-<script src="https://github.com/KuthikBohdan/rd/blob/main/rd.js"></script>
+
 <div class=container>
   <div id="page0" class="screenpage show">1
     <div class="close">close</div>
