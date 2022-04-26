@@ -3,7 +3,7 @@
 <link rel="rd" href="rd.css"/>
     <head>
 <body>
-<script src=""></script>
+<script src="https://github.com/KuthikBohdan/rd/blob/main/rd.js"></script>
 <div class=container>
   <div id="page0" class="screenpage show">1
     <div class="close">close</div>
