@@ -3,12 +3,7 @@
 <link rel="rd" href="rd.css"/>
     <head>
 <body>
-  <script type="text/javascript">
-    $('.close').click(function() {
-  $('.screenpage:visible').hide().siblings().eq(Math.floor(Math.random() * 9)).show();
-});
-  </script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src=""></script>
 <div class=container>
   <div id="page0" class="screenpage show">1
     <div class="close">close</div>
